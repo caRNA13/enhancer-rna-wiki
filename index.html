@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A shared genomics handbook for lab practice, cell culture, and genomic libraries.">
+  <meta name="theme-color" content="#f7f8f4">
+  <meta property="og:title" content="Carlos students at EMBL wiki">
+  <meta property="og:description" content="Lab practice, cell culture, and genomic libraries. A shared handbook for our research group.">
+  <title>Carlos students at EMBL wiki</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="content.js" defer></script>
+  <script src="search-engine.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="request-config.js" defer></script>
+  <script src="requests.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="Carlos students at EMBL wiki home">
+      <span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none"><path d="M9 5c0 10 14 12 14 22M23 5c0 10-14 12-14 22M10 8h12M12 12h8M12 20h8M10 24h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></span>
+      <span>Carlos students at EMBL wiki<span class="brand-subtitle">Enhancer RNA team</span></span>
+    </a>
+    <span class="header-note">A shared handbook<span class="small-dot" aria-hidden="true"></span></span>
+  </header>
+  <main id="main" tabindex="-1">
+    <section id="browse-view" aria-label="Search the handbook">
+      <div class="hero">
+        <p class="eyebrow">A REFERENCE FOR OUR RESEARCH GROUP</p>
+        <h1 id="hero-title">Find what you need.</h1>
+        <p class="intro" id="hero-intro">Protocols, practical answers, and shared knowledge.<br>One place to come back to.</p>
+        <nav class="view-tabs" aria-label="Choose what to browse"><a id="handbook-tab" href="#" aria-current="page">Handbook</a><a id="locations-tab" href="#view=locations">Where to find?</a></nav>
+        <form id="search-form" class="search-box" role="search">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+          <label class="sr-only" for="search">Search the handbook</label>
+          <input id="search" type="search" placeholder="Search protocols, equipment, library QC…" autocomplete="off" spellcheck="false">
+          <button id="clear-search" class="clear-search" type="button" aria-label="Clear search" hidden>×</button>
+          <kbd id="search-shortcut" aria-hidden="true">/</kbd>
+        </form>
+        <p class="search-hint" id="search-hint">Search by name, a related term, or a question. Common typos are okay.</p>
+      </div>
+      <nav id="categories" class="categories" aria-label="Browse by area"></nav>
+      <section class="request-bar" aria-label="Report something missing">
+        <div><h2>Something missing?</h2><p>Let Carlos know what you need.</p></div>
+        <div class="request-actions">
+          <button type="button" class="request-button" data-request="reagent"><span aria-hidden="true">＋</span> Request a reagent</button>
+          <button type="button" class="request-button" data-request="wiki"><span aria-hidden="true">＋</span> Request a wiki page</button>
+        </div>
+      </section>
+      <section class="page-list" aria-labelledby="results-heading">
+        <div class="list-heading">
+          <div><h2 id="results-heading">All pages</h2><span id="results-count" role="status" aria-live="polite"></span></div>
+          <button type="button" class="text-button" id="show-all" hidden>Show all areas <span aria-hidden="true">↗</span></button>
+        </div>
+        <p id="draft-note" class="draft-note"><span aria-hidden="true">◌</span> From Carlos's lab notes. Entries marked “Check details” have points to clarify.</p>
+        <div id="location-results"></div>
+        <div id="results"></div>
+      </section>
+    </section>
+    <section id="article-view" aria-label="Handbook page" hidden></section>
+    <noscript><div class="empty-state">Please enable JavaScript to search and read this handbook. The editable source pages are included in the articles folder.</div></noscript>
+  </main>
+  <dialog id="request-dialog" aria-labelledby="request-title" aria-describedby="request-intro">
+    <button type="button" class="dialog-close" id="close-request" aria-label="Close request form">×</button>
+    <p class="eyebrow">SOMETHING MISSING</p>
+    <h2 id="request-title">Request a reagent</h2>
+    <p id="request-intro"></p>
+    <div id="request-form-content"></div>
+  </dialog>
+  <footer class="site-footer"><span>Carlos students at EMBL wiki <span aria-hidden="true">/</span> Enhancer RNA team</span><span>Shared knowledge. Fewer repeat questions.</span></footer>
+</body>
+</html>
