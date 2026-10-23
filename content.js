@@ -39,8 +39,8 @@ window.WIKI_CONTENT = {
       "reviewed": "",
       "source": "Carlos's lab guidelines and additions, 23 October 2026",
       "review_note": "",
-      "html": "\u003ch2\u003eFind an item\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"#view=locations\"\u003eOpen the location finder\u003c/a\u003e. It lists the locations in Carlos&#x27;s notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller.\u003c/p\u003e\n\u003ch2\u003eLandmarks in the notes\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003ePCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks.\u003c/li\u003e\u003cli\u003eSink area: storage above the sink and the cabinet next to the −20°C freezer.\u003c/li\u003e\u003cli\u003eCold room: parallel to the corridor containing the −80°C freezers.\u003c/li\u003e\u003cli\u003eS2 lab: a −20°C freezer and a 4°C fridge with a Steinmetz-labelled shelf.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eStock and missing items\u003c/h2\u003e\n\u003cp\u003eThese are listed locations, not live stock levels. Use \u003cstrong\u003eRequest a reagent\u003c/strong\u003e if an item is missing or running low.\u003c/p\u003e\n\u003ch2\u003eCommon −20 °C freezer\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e\u003cstrong\u003eGeneral drawer:\u003c/strong\u003e ampicillin and enzymes, including restriction enzymes, DNases, RNases, and reverse-transcription-related enzymes and reagents.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKits drawer:\u003c/strong\u003e Illumina barcodes.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eOrdering supplies\u003c/h2\u003e\n\u003cp\u003eSee \u003ca href=\"#page=budget-codes\"\u003ebudget numbers for lab purchases\u003c/a\u003e: \u003cstrong\u003e16001\u003c/strong\u003e for small tissue-culture consumables such as pipettes and tubes; \u003cstrong\u003e16884\u003c/strong\u003e for general lab purchases.\u003c/p\u003e",
-      "bodyText": "Find an item Open the location finder . It lists the locations in Carlos's notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller. Landmarks in the notes PCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks. Sink area: storage above the sink and the cabinet next to the −20°C freezer. Cold room: parallel to the corridor containing the −80°C freezers. S2 lab: a −20°C freezer and a 4°C fridge with a Steinmetz-labelled shelf. Stock and missing items These are listed locations, not live stock levels. Use Request a reagent if an item is missing or running low. Common −20 °C freezer General drawer: ampicillin and enzymes, including restriction enzymes, DNases, RNases, and reverse-transcription-related enzymes and reagents. Kits drawer: Illumina barcodes. Ordering supplies See budget numbers for lab purchases : 16001 for small tissue-culture consumables such as pipettes and tubes; 16884 for general lab purchases."
+      "html": "\u003ch2\u003eFind an item\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"#view=locations\"\u003eOpen the location finder\u003c/a\u003e. It lists the locations in Carlos&#x27;s notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller.\u003c/p\u003e\n\u003ch2\u003eLandmarks in the notes\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003ePCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks.\u003c/li\u003e\u003cli\u003eSink area: storage above the sink and the cabinet next to the −20°C freezer.\u003c/li\u003e\u003cli\u003eCold room: parallel to the corridor containing the −80°C freezers.\u003c/li\u003e\u003cli\u003eS2 lab: −20°C freezers and a 4°C fridge with a Steinmetz-labelled shelf. Masks are on the plate shelf in front of the −20°C freezers; single-use disposable lab coats are next to the hood. See \u003ca href=\"#page=s2-lab-essentials\"\u003eS2 lab essentials\u003c/a\u003e.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eStock and missing items\u003c/h2\u003e\n\u003cp\u003eThese are listed locations, not live stock levels. Use \u003cstrong\u003eRequest a reagent\u003c/strong\u003e if an item is missing or running low.\u003c/p\u003e\n\u003ch2\u003eCommon −20 °C freezer\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e\u003cstrong\u003eGeneral drawer:\u003c/strong\u003e ampicillin and enzymes, including restriction enzymes, DNases, RNases, and reverse-transcription-related enzymes and reagents.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKits drawer:\u003c/strong\u003e Illumina barcodes.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eOrdering supplies\u003c/h2\u003e\n\u003cp\u003eSee \u003ca href=\"#page=budget-codes\"\u003ebudget numbers for lab purchases\u003c/a\u003e: \u003cstrong\u003e16001\u003c/strong\u003e for small tissue-culture consumables such as pipettes and tubes; \u003cstrong\u003e16884\u003c/strong\u003e for general lab purchases.\u003c/p\u003e\n\u003ch2\u003eEveryday use\u003c/h2\u003e\n\u003cp\u003eSee \u003ca href=\"#page=general-lab-practice\"\u003egeneral lab practice\u003c/a\u003e for which ethanol to use and the 3-day limit for prepared 70–80% ethanol used in library work.\u003c/p\u003e",
+      "bodyText": "Find an item Open the location finder . It lists the locations in Carlos's notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller. Landmarks in the notes PCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks. Sink area: storage above the sink and the cabinet next to the −20°C freezer. Cold room: parallel to the corridor containing the −80°C freezers. S2 lab: −20°C freezers and a 4°C fridge with a Steinmetz-labelled shelf. Masks are on the plate shelf in front of the −20°C freezers; single-use disposable lab coats are next to the hood. See S2 lab essentials . Stock and missing items These are listed locations, not live stock levels. Use Request a reagent if an item is missing or running low. Common −20 °C freezer General drawer: ampicillin and enzymes, including restriction enzymes, DNases, RNases, and reverse-transcription-related enzymes and reagents. Kits drawer: Illumina barcodes. Ordering supplies See budget numbers for lab purchases : 16001 for small tissue-culture consumables such as pipettes and tubes; 16884 for general lab purchases. Everyday use See general lab practice for which ethanol to use and the 3-day limit for prepared 70–80% ethanol used in library work."
     },
     {
       "id": "waste",
@@ -557,6 +557,63 @@ window.WIKI_CONTENT = {
       "review_note": "",
       "html": "\u003ch2\u003eBefore using the machine\u003c/h2\u003e\n\u003col\u003e\u003cli\u003e\u003cstrong\u003eFill in the TapeStation Excel usage file before use\u003c/strong\u003e, recording the \u003cstrong\u003ename of the lab\u003c/strong\u003e and the \u003cstrong\u003enumber of reactions used\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eFind the \u003cstrong\u003eprotocols downstairs, next to the TapeStation machine\u003c/strong\u003e. Follow the protocol for the assay you are running.\u003c/li\u003e\u003cli\u003eFor an RNA run, \u003cstrong\u003erequest the RNA ladder from GeneCore\u003c/strong\u003e before use.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eDNA library preparation QC\u003c/h2\u003e\n\u003cp\u003eUse \u003cstrong\u003eHigh Sensitivity D1000 ScreenTape (DNA HS 1000)\u003c/strong\u003e for library-preparation QC. Its DNA sizing range is \u003cstrong\u003e35–1,000 bp\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCarlos&#x27;s lab QC rule:\u003c/strong\u003e run samples \u003cstrong\u003ewithout dilution at concentrations up to 5 ng/µL\u003c/strong\u003e. \u003cstrong\u003eDilute samples above 5 ng/µL\u003c/strong\u003e before running them.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFor quantitative measurements\u003c/strong\u003e, use Agilent&#x27;s specified \u003cstrong\u003eHS D1000 quantitative range of 0.01–1 ng/µL\u003c/strong\u003e. Carlos&#x27;s 5 ng/µL cutoff is the lab&#x27;s QC practice; it does not extend the manufacturer&#x27;s quantitative range. Follow the assay protocol next to the machine for sample preparation. \u003ca href=\"https://www.agilent.com/cs/library/datasheets/public/datasheet-d1000-hisens-d1000-screentape-tapestation-5991-2493EN-agilent.pdf\"\u003eAgilent D1000 and HS D1000 data sheet\u003c/a\u003e.\u003c/p\u003e\n\u003ch2\u003eRNA from nascent RNA work\u003c/h2\u003e\n\u003cp\u003eCarlos recommends the \u003cstrong\u003eRNA kit for QC of RNA from nascent RNA work\u003c/strong\u003e. Follow the RNA assay protocol next to the machine and \u003cstrong\u003erequest its RNA ladder from GeneCore\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003eResults for sequencing submission\u003c/h2\u003e\n\u003cp\u003eKeep the \u003cstrong\u003eTapeStation results folder\u003c/strong\u003e with the matching library sample names. Attach it when \u003ca href=\"#page=sequencing-library-submission\"\u003esubmitting libraries for sequencing\u003c/a\u003e.\u003c/p\u003e",
       "bodyText": "Before using the machine Fill in the TapeStation Excel usage file before use , recording the name of the lab and the number of reactions used . Find the protocols downstairs, next to the TapeStation machine . Follow the protocol for the assay you are running. For an RNA run, request the RNA ladder from GeneCore before use. DNA library preparation QC Use High Sensitivity D1000 ScreenTape (DNA HS 1000) for library-preparation QC. Its DNA sizing range is 35–1,000 bp . Carlos's lab QC rule: run samples without dilution at concentrations up to 5 ng/µL . Dilute samples above 5 ng/µL before running them. For quantitative measurements , use Agilent's specified HS D1000 quantitative range of 0.01–1 ng/µL . Carlos's 5 ng/µL cutoff is the lab's QC practice; it does not extend the manufacturer's quantitative range. Follow the assay protocol next to the machine for sample preparation. Agilent D1000 and HS D1000 data sheet . RNA from nascent RNA work Carlos recommends the RNA kit for QC of RNA from nascent RNA work . Follow the RNA assay protocol next to the machine and request its RNA ladder from GeneCore . Results for sequencing submission Keep the TapeStation results folder with the matching library sample names. Attach it when submitting libraries for sequencing ."
+    },
+    {
+      "id": "general-lab-practice",
+      "title": "General lab practice: ethanol",
+      "category": "lab-practice",
+      "summary": "Use the ethanol stored under the hood; prepared 70–80% ethanol for library work must be used within 3 days.",
+      "keywords": [
+        "ethanol",
+        "EtOH",
+        "alcohol",
+        "common sense",
+        "good practice",
+        "70%",
+        "80%",
+        "libraries",
+        "library preparation",
+        "fresh ethanol",
+        "three days",
+        "3 days",
+        "hood"
+      ],
+      "status": "reference",
+      "maintainer": "Carlos",
+      "version": "1",
+      "reviewed": "2026-10-23",
+      "source": "Carlos's lab instructions, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eWhich ethanol to use\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003eAlways use the ethanol stored under the hood.\u003c/strong\u003e\u003c/p\u003e\n\u003ch2\u003eEthanol for library work\u003c/h2\u003e\n\u003cp\u003eFor library preparation, use prepared \u003cstrong\u003e70–80% ethanol only within 3 days of preparation\u003c/strong\u003e. Do not use older preparations for library work.\u003c/p\u003e\n\u003cp\u003eThis is Carlos&#x27;s local lab rule. Use the ethanol concentration specified by the applicable protocol.\u003c/p\u003e\n\u003ch2\u003eRelated lab essentials\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e\u003ca href=\"#page=equipment-and-supplies\"\u003eWhere to find reagents, supplies and equipment\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"#page=s2-lab-essentials\"\u003eS2 lab: masks and disposable coats\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href=\"#page=budget-codes\"\u003eBudget numbers for lab purchases\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e",
+      "bodyText": "Which ethanol to use Always use the ethanol stored under the hood. Ethanol for library work For library preparation, use prepared 70–80% ethanol only within 3 days of preparation . Do not use older preparations for library work. This is Carlos's local lab rule. Use the ethanol concentration specified by the applicable protocol. Related lab essentials Where to find reagents, supplies and equipment S2 lab: masks and disposable coats Budget numbers for lab purchases"
+    },
+    {
+      "id": "s2-lab-essentials",
+      "title": "S2 lab: masks and disposable coats",
+      "category": "cell-culture",
+      "summary": "Find masks on the plate shelf in front of the −20 °C freezers, and single-use disposable S2 lab coats next to the hood.",
+      "keywords": [
+        "S2",
+        "lab",
+        "masks",
+        "face masks",
+        "lab coats",
+        "disposable coats",
+        "single use",
+        "PPE",
+        "protective clothing",
+        "plates",
+        "hood",
+        "freezer"
+      ],
+      "status": "reference",
+      "maintainer": "Carlos",
+      "version": "1",
+      "reviewed": "2026-10-23",
+      "source": "Carlos's lab instructions, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eMasks\u003c/h2\u003e\n\u003cp\u003eIn the \u003cstrong\u003eS2 lab\u003c/strong\u003e, masks are on the \u003cstrong\u003esame shelf as the plates, in front of the −20 °C freezers\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003eLab coats for S2 work\u003c/h2\u003e\n\u003cp\u003eS2 lab coats are \u003cstrong\u003enext to the hood\u003c/strong\u003e. They are \u003cstrong\u003esingle-use disposable coats\u003c/strong\u003e.\u003c/p\u003e",
+      "bodyText": "Masks In the S2 lab , masks are on the same shelf as the plates, in front of the −20 °C freezers . Lab coats for S2 work S2 lab coats are next to the hood . They are single-use disposable coats ."
     }
   ],
   "locations": [
@@ -646,13 +703,16 @@ window.WIKI_CONTENT = {
       "name": "Ethanol",
       "category": "lab-practice",
       "field": "Chemicals",
-      "location": "Below the hood.",
+      "location": "Under the hood.",
       "aliases": [
         "EtOH",
-        "ethyl alcohol"
+        "ethyl alcohol",
+        "70% ethanol",
+        "80% ethanol",
+        "library ethanol"
       ],
-      "uses": "solvent alcohol",
-      "note": "",
+      "uses": "solvent alcohol library preparation ethanol wash",
+      "note": "Always use this ethanol. For library work, use prepared 70–80% ethanol only within 3 days of preparation (Carlos’s lab rule).",
       "needsReview": false
     },
     {
@@ -1149,6 +1209,41 @@ window.WIKI_CONTENT = {
       ],
       "uses": "RNA quality control nascent RNA TapeStation assay",
       "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "s2-masks",
+      "name": "Masks — S2 lab",
+      "category": "cell-culture",
+      "field": "Protective equipment",
+      "location": "S2 lab: on the same shelf as the plates, in front of the −20 °C freezers.",
+      "aliases": [
+        "mask",
+        "face masks",
+        "S2 masks",
+        "protective masks",
+        "PPE masks"
+      ],
+      "uses": "S2 work personal protective equipment",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "s2-lab-coats",
+      "name": "Disposable lab coats — S2 work",
+      "category": "cell-culture",
+      "field": "Protective equipment",
+      "location": "S2 lab: next to the hood.",
+      "aliases": [
+        "lab coat",
+        "S2 coats",
+        "disposable coats",
+        "single use coats",
+        "protective clothing",
+        "PPE coats"
+      ],
+      "uses": "S2 work personal protective equipment lab clothing",
+      "note": "Single-use disposable lab coats for S2 work.",
       "needsReview": false
     }
   ]
