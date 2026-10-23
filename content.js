@@ -51,6 +51,7 @@ window.WIKI_CONTENT = {
         "waste",
         "disposal",
         "trizol",
+        "chloroform",
         "bacterial",
         "miniprep",
         "liquid",
@@ -61,10 +62,10 @@ window.WIKI_CONTENT = {
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
+      "source": "Carlos's lab guidelines and clarifications, 23 October 2026",
       "review_note": "",
-      "html": "\u003ch2\u003eBacterial waste from minipreps\u003c/h2\u003e\n\u003cp\u003eCollect bacterial liquid waste in bottles from the kitchen, then place the bottles in the metal waste bin at the lab entrance. This stream is for liquid media waste only. Put tips in S1 waste.\u003c/p\u003e\n\u003ch2\u003eTRIzol waste\u003c/h2\u003e\n\u003cp\u003eLiquid-waste tanks are in the PCR room. Bring the tank to the hood, deposit the TRIzol waste there, and return the tank afterwards.\u003c/p\u003e\n\u003ch2\u003eWaste bags\u003c/h2\u003e\n\u003cp\u003eWaste bags are next to the main office, below the printer.\u003c/p\u003e",
-      "bodyText": "Bacterial waste from minipreps Collect bacterial liquid waste in bottles from the kitchen, then place the bottles in the metal waste bin at the lab entrance. This stream is for liquid media waste only. Put tips in S1 waste. TRIzol waste Liquid-waste tanks are in the PCR room. Bring the tank to the hood, deposit the TRIzol waste there, and return the tank afterwards. Waste bags Waste bags are next to the main office, below the printer."
+      "html": "\u003ch2\u003eBacterial waste from minipreps\u003c/h2\u003e\n\u003cp\u003eCollect bacterial liquid waste in bottles from the kitchen, then place the bottles in the metal waste bin at the lab entrance. This stream is for liquid media waste only. Put tips in S1 waste.\u003c/p\u003e\n\u003ch2\u003eTRIzol waste\u003c/h2\u003e\n\u003cp\u003eUse the \u003cstrong\u003edesignated waste container labelled “TRIzol” or “Chloroform” in the PCR room\u003c/strong\u003e. Bring that container to the hood, deposit the TRIzol waste there, and return it afterwards.\u003c/p\u003e\n\u003ch2\u003eWaste bags\u003c/h2\u003e\n\u003cp\u003eWaste bags are next to the main office, below the printer.\u003c/p\u003e",
+      "bodyText": "Bacterial waste from minipreps Collect bacterial liquid waste in bottles from the kitchen, then place the bottles in the metal waste bin at the lab entrance. This stream is for liquid media waste only. Put tips in S1 waste. TRIzol waste Use the designated waste container labelled “TRIzol” or “Chloroform” in the PCR room . Bring that container to the hood, deposit the TRIzol waste there, and return it afterwards. Waste bags Waste bags are next to the main office, below the printer."
     },
     {
       "id": "lab-duty",
@@ -144,7 +145,7 @@ window.WIKI_CONTENT = {
       "id": "splitting-suspension-cells",
       "title": "Splitting suspension cells",
       "category": "cell-culture",
-      "summary": "Working notes for K562 and GM12878 cells; the split criterion needs clarification.",
+      "summary": "When and how to split K562 and GM12878 cells, with dilution ratios for the next culture interval.",
       "keywords": [
         "suspension",
         "K562",
@@ -155,20 +156,20 @@ window.WIKI_CONTENT = {
         "dilution",
         "density"
       ],
-      "status": "needs-review",
+      "status": "reference",
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
-      "review_note": "Confirm the intended density criterion; the source describes suspension cells using 70–80% confluency.",
-      "html": "\u003ch2\u003eScope\u003c/h2\u003e\n\u003cp\u003eFor K562 and GM12878 suspension cells.\u003c/p\u003e\n\u003ch2\u003eSplitting steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eCheck whether the culture is ready to split. The source says “70–80% confluency”; Carlos needs to clarify the intended density criterion for suspension cells.\u003c/li\u003e\u003cli\u003eTilt the plate approximately 45°, pipette up and down, and dilute.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eDilution ratios\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003eFor use the next day: 1:5.\u003c/li\u003e\u003cli\u003eFor use in 3–5 days: 1:10.\u003c/li\u003e\u003c/ul\u003e",
-      "bodyText": "Scope For K562 and GM12878 suspension cells. Splitting steps Check whether the culture is ready to split. The source says “70–80% confluency”; Carlos needs to clarify the intended density criterion for suspension cells. Tilt the plate approximately 45°, pipette up and down, and dilute. Dilution ratios For use the next day: 1:5. For use in 3–5 days: 1:10."
+      "source": "Carlos's lab guidelines and clarifications, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eScope\u003c/h2\u003e\n\u003cp\u003eFor K562 and GM12878 suspension cells.\u003c/p\u003e\n\u003ch2\u003eSplitting steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eSplit at \u003cstrong\u003e70% confluency\u003c/strong\u003e, using Carlos&#x27;s visual criterion for these cultures.\u003c/li\u003e\u003cli\u003eTilt the plate approximately 45°, pipette up and down, and dilute.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eDilution ratios\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003eFor use the next day: 1:5.\u003c/li\u003e\u003cli\u003eFor use in 3–5 days: 1:10.\u003c/li\u003e\u003c/ul\u003e",
+      "bodyText": "Scope For K562 and GM12878 suspension cells. Splitting steps Split at 70% confluency , using Carlos's visual criterion for these cultures. Tilt the plate approximately 45°, pipette up and down, and dilute. Dilution ratios For use the next day: 1:5. For use in 3–5 days: 1:10."
     },
     {
       "id": "splitting-adherent-cells",
       "title": "Splitting adherent cells",
       "category": "cell-culture",
-      "summary": "Plate-size-specific working notes for detachment, pelleting, and replating.",
+      "summary": "Detachment, pelleting, and replating notes, including Carlos's HEK estimate using 3 mL of the 15 mL starting suspension.",
       "keywords": [
         "adherent",
         "HEK",
@@ -180,14 +181,14 @@ window.WIKI_CONTENT = {
         "detachment",
         "plating"
       ],
-      "status": "needs-review",
+      "status": "reference",
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
-      "review_note": "Confirm the product written as “trypsin LE express” and the resuspension/destination details for the HEK estimate.",
-      "html": "\u003ch2\u003eDetachment reagent\u003c/h2\u003e\n\u003cp\u003eThe source calls the reagent “trypsin LE express”. Confirm the exact product name before following this procedure.\u003c/p\u003e\n\u003ch2\u003eSplitting steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eRemove the medium.\u003c/li\u003e\u003cli\u003eAdd the detachment reagent: 5 mL for a 15 cm plate, or 3 mL for a 10 cm plate.\u003c/li\u003e\u003cli\u003eIncubate for 5 minutes. The notes also say to check at 1–2 minutes, tap the plate, and return it to the incubator.\u003c/li\u003e\u003cli\u003eWhen about 60% of cells have detached, add 10 mL of medium for a 15 cm plate, or 7 mL for a 10 cm plate.\u003c/li\u003e\u003cli\u003eCentrifuge at 500 × g for 5 minutes.\u003c/li\u003e\u003cli\u003eCarefully remove the medium, using an unfiltered tip on the suction device to avoid aspirating the pellet.\u003c/li\u003e\u003cli\u003eResuspend in 1 mL. The resuspension medium is not specified.\u003c/li\u003e\u003cli\u003eCount cells and determine the plating amount for the intended use.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eHEK estimate from the notes\u003c/h2\u003e\n\u003cp\u003eFor HEK cells, the notes estimate that “3 mL of a fully confluent 15 cm plate” gives roughly 80% confluency the next day. Confirm the resuspension concentration and destination plate size for this estimate.\u003c/p\u003e",
-      "bodyText": "Detachment reagent The source calls the reagent “trypsin LE express”. Confirm the exact product name before following this procedure. Splitting steps Remove the medium. Add the detachment reagent: 5 mL for a 15 cm plate, or 3 mL for a 10 cm plate. Incubate for 5 minutes. The notes also say to check at 1–2 minutes, tap the plate, and return it to the incubator. When about 60% of cells have detached, add 10 mL of medium for a 15 cm plate, or 7 mL for a 10 cm plate. Centrifuge at 500 × g for 5 minutes. Carefully remove the medium, using an unfiltered tip on the suction device to avoid aspirating the pellet. Resuspend in 1 mL. The resuspension medium is not specified. Count cells and determine the plating amount for the intended use. HEK estimate from the notes For HEK cells, the notes estimate that “3 mL of a fully confluent 15 cm plate” gives roughly 80% confluency the next day. Confirm the resuspension concentration and destination plate size for this estimate."
+      "source": "Carlos's lab guidelines and clarifications, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eDetachment reagent\u003c/h2\u003e\n\u003cp\u003eUse \u003cstrong\u003eTrypsin LE Express\u003c/strong\u003e, as named in the lab notes and confirmed by Carlos.\u003c/p\u003e\n\u003ch2\u003eSplitting steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eRemove the medium.\u003c/li\u003e\u003cli\u003eAdd \u003cstrong\u003eTrypsin LE Express\u003c/strong\u003e: \u003cstrong\u003e4 mL for HEK cells in a 15 cm plate\u003c/strong\u003e, or \u003cstrong\u003e3 mL for a 10 cm plate\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eIncubate for 5 minutes. The notes also say to check at 1–2 minutes, tap the plate, and return it to the incubator.\u003c/li\u003e\u003cli\u003eWhen about 60% of cells have detached, add \u003cstrong\u003e11 mL of supplemented DMEM for HEK cells in a 15 cm plate\u003c/strong\u003e, giving \u003cstrong\u003e15 mL total suspension\u003c/strong\u003e. For a 10 cm plate, add \u003cstrong\u003e7 mL of medium\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eCentrifuge at 500 × g for 5 minutes.\u003c/li\u003e\u003cli\u003eCarefully remove the medium, using an unfiltered tip on the suction device to avoid aspirating the pellet.\u003c/li\u003e\u003cli\u003eResuspend in \u003cstrong\u003e1 mL of supplemented DMEM\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eCount cells and determine the plating amount for the intended use.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eHEK replating estimate — 15 cm plates\u003c/h2\u003e\n\u003cp\u003eFor a fully confluent \u003cstrong\u003e15 cm HEK plate\u003c/strong\u003e, the starting cell suspension is \u003cstrong\u003e4 mL Trypsin LE Express + 11 mL supplemented DMEM = 15 mL total\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eCarlos&#x27;s estimate uses \u003cstrong\u003e3 mL of this 15 mL suspension\u003c/strong\u003e (one fifth of the starting suspension) for a \u003cstrong\u003e15 cm destination plate\u003c/strong\u003e, giving roughly \u003cstrong\u003e80% confluency the next day\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eThe \u003cstrong\u003e3 mL refers to the trypsin-and-medium suspension before centrifugation\u003c/strong\u003e. The \u003cstrong\u003e1 mL in step 7\u003c/strong\u003e is the separate resuspension volume after centrifugation.\u003c/p\u003e",
+      "bodyText": "Detachment reagent Use Trypsin LE Express , as named in the lab notes and confirmed by Carlos. Splitting steps Remove the medium. Add Trypsin LE Express : 4 mL for HEK cells in a 15 cm plate , or 3 mL for a 10 cm plate . Incubate for 5 minutes. The notes also say to check at 1–2 minutes, tap the plate, and return it to the incubator. When about 60% of cells have detached, add 11 mL of supplemented DMEM for HEK cells in a 15 cm plate , giving 15 mL total suspension . For a 10 cm plate, add 7 mL of medium . Centrifuge at 500 × g for 5 minutes. Carefully remove the medium, using an unfiltered tip on the suction device to avoid aspirating the pellet. Resuspend in 1 mL of supplemented DMEM . Count cells and determine the plating amount for the intended use. HEK replating estimate — 15 cm plates For a fully confluent 15 cm HEK plate , the starting cell suspension is 4 mL Trypsin LE Express + 11 mL supplemented DMEM = 15 mL total . Carlos's estimate uses 3 mL of this 15 mL suspension (one fifth of the starting suspension) for a 15 cm destination plate , giving roughly 80% confluency the next day . The 3 mL refers to the trypsin-and-medium suspension before centrifugation . The 1 mL in step 7 is the separate resuspension volume after centrifugation."
     },
     {
       "id": "freezing-cells",
@@ -204,20 +205,20 @@ window.WIKI_CONTENT = {
         "liquid nitrogen",
         "LN2"
       ],
-      "status": "needs-review",
+      "status": "reference",
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
-      "review_note": "Confirm the final cell concentration and the timing/location of the storage transfers.",
-      "html": "\u003ch2\u003eFreezing steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003ePellet cells at 500 × g for 5 minutes.\u003c/li\u003e\u003cli\u003eResuspend in 1 mL of medium.\u003c/li\u003e\u003cli\u003eCount cells.\u003c/li\u003e\u003cli\u003eCalculate the cell suspension needed for the stated target of 2–5 million cells per mL; see the concentration clarification below.\u003c/li\u003e\u003cli\u003eAdd 900 µL of the cell suspension and 100 µL of DMSO to a cryotube, then mix.\u003c/li\u003e\u003cli\u003ePlace the tubes in Mr. Frosty and transfer to −80°C.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eConcentration ambiguity\u003c/h2\u003e\n\u003cp\u003eConfirm whether 2–5 million cells per mL refers to the suspension before DMSO is added or the final freezing mixture.\u003c/p\u003e\n\u003ch2\u003eStorage handover\u003c/h2\u003e\n\u003cp\u003eMove the cells to temporary storage, then to the liquid-nitrogen tank after two weeks. The temporary storage location and timing of the first transfer need clarification.\u003c/p\u003e\n\u003ch2\u003eWhere is Mr. Frosty?\u003c/h2\u003e\n\u003cp\u003eLook next to the sink. If it is not there, check the −80°C freezer and identify who is using it. Ask that person before transferring their cells to temporary storage.\u003c/p\u003e",
-      "bodyText": "Freezing steps Pellet cells at 500 × g for 5 minutes. Resuspend in 1 mL of medium. Count cells. Calculate the cell suspension needed for the stated target of 2–5 million cells per mL; see the concentration clarification below. Add 900 µL of the cell suspension and 100 µL of DMSO to a cryotube, then mix. Place the tubes in Mr. Frosty and transfer to −80°C. Concentration ambiguity Confirm whether 2–5 million cells per mL refers to the suspension before DMSO is added or the final freezing mixture. Storage handover Move the cells to temporary storage, then to the liquid-nitrogen tank after two weeks. The temporary storage location and timing of the first transfer need clarification. Where is Mr. Frosty? Look next to the sink. If it is not there, check the −80°C freezer and identify who is using it. Ask that person before transferring their cells to temporary storage."
+      "source": "Carlos's lab guidelines and clarifications, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eFreezing steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003ePellet cells at 500 × g for 5 minutes.\u003c/li\u003e\u003cli\u003eResuspend in 1 mL of medium.\u003c/li\u003e\u003cli\u003eCount cells.\u003c/li\u003e\u003cli\u003ePrepare the cell suspension at \u003cstrong\u003e2–5 million cells per mL before adding DMSO\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAdd 900 µL of the cell suspension and 100 µL of DMSO to a cryotube, then mix.\u003c/li\u003e\u003cli\u003ePlace the tubes in Mr. Frosty and transfer to the \u003cstrong\u003e−80 °C freezer\u003c/strong\u003e.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eStorage handover\u003c/h2\u003e\n\u003cp\u003eTemporary storage is in the \u003cstrong\u003e−80 °C freezer\u003c/strong\u003e. Transfer the cells to the \u003cstrong\u003eliquid-nitrogen tank after two weeks\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003eWhere is Mr. Frosty?\u003c/h2\u003e\n\u003cp\u003eLook next to the sink. If it is not there, check the −80°C freezer and identify who is using it. Ask that person before transferring their cells to temporary storage.\u003c/p\u003e",
+      "bodyText": "Freezing steps Pellet cells at 500 × g for 5 minutes. Resuspend in 1 mL of medium. Count cells. Prepare the cell suspension at 2–5 million cells per mL before adding DMSO . Add 900 µL of the cell suspension and 100 µL of DMSO to a cryotube, then mix. Place the tubes in Mr. Frosty and transfer to the −80 °C freezer . Storage handover Temporary storage is in the −80 °C freezer . Transfer the cells to the liquid-nitrogen tank after two weeks . Where is Mr. Frosty? Look next to the sink. If it is not there, check the −80°C freezer and identify who is using it. Ask that person before transferring their cells to temporary storage."
     },
     {
       "id": "transfection-six-well",
       "title": "Transfection in a six-well plate",
       "category": "cell-culture",
-      "summary": "Two-tube transfection recipe for a six-well plate; plasmid amounts and mixing volumes need clarification.",
+      "summary": "Two-tube transfection recipe with 833 ng of each plasmid and a 125 µL aliquot from each mix.",
       "keywords": [
         "transfection",
         "six well",
@@ -229,14 +230,14 @@ window.WIKI_CONTENT = {
         "plasmid",
         "gRNA"
       ],
-      "status": "needs-review",
+      "status": "reference",
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
-      "review_note": "Confirm plasmid amounts, reagent name, and the aliquot-versus-whole-tube mixing instruction.",
-      "html": "\u003ch2\u003eTube 1 — DNA mix\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e125 µL Opti-MEM.\u003c/li\u003e\u003cli\u003e2.75 µL “P300 Reagent”. Confirm the product name.\u003c/li\u003e\u003cli\u003e833 ng “both packaging plasmids”. Confirm whether this is the total across both plasmids or the amount of each.\u003c/li\u003e\u003cli\u003e833 ng gRNA plasmid.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eTube 2 — Lipofectamine mix\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e125 µL Opti-MEM.\u003c/li\u003e\u003cli\u003e5 µL Lipofectamine 3000 reagent.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eMixing and addition\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eThe notes say to mix tube 1 and tube 2 at 1:1, using 125 µL + 125 µL.\u003c/li\u003e\u003cli\u003eVortex thoroughly and incubate for 15 minutes at room temperature.\u003c/li\u003e\u003cli\u003eAdd 250 µL of the mixture dropwise to the cells.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eVolume ambiguity\u003c/h2\u003e\n\u003cp\u003eEach tube contains more than 125 µL after adding reagents. Confirm whether to mix 125 µL aliquots or the full contents of both tubes.\u003c/p\u003e",
-      "bodyText": "Tube 1 — DNA mix 125 µL Opti-MEM. 2.75 µL “P300 Reagent”. Confirm the product name. 833 ng “both packaging plasmids”. Confirm whether this is the total across both plasmids or the amount of each. 833 ng gRNA plasmid. Tube 2 — Lipofectamine mix 125 µL Opti-MEM. 5 µL Lipofectamine 3000 reagent. Mixing and addition The notes say to mix tube 1 and tube 2 at 1:1, using 125 µL + 125 µL. Vortex thoroughly and incubate for 15 minutes at room temperature. Add 250 µL of the mixture dropwise to the cells. Volume ambiguity Each tube contains more than 125 µL after adding reagents. Confirm whether to mix 125 µL aliquots or the full contents of both tubes."
+      "source": "Carlos's lab guidelines and clarifications, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eTube 1 — DNA mix\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e125 µL Opti-MEM.\u003c/li\u003e\u003cli\u003e2.75 µL \u003cstrong\u003eP3000 reagent\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003e833 ng of each packaging plasmid\u003c/strong\u003e (two plasmids).\u003c/li\u003e\u003cli\u003e833 ng gRNA plasmid.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eTube 2 — Lipofectamine mix\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e125 µL Opti-MEM.\u003c/li\u003e\u003cli\u003e5 µL Lipofectamine 3000 reagent.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eMixing and addition\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eCombine \u003cstrong\u003e125 µL from tube 1 with 125 µL from tube 2\u003c/strong\u003e (1:1), giving \u003cstrong\u003e250 µL\u003c/strong\u003e in total.\u003c/li\u003e\u003cli\u003eVortex thoroughly and incubate for 15 minutes at room temperature.\u003c/li\u003e\u003cli\u003eAdd 250 µL of the mixture dropwise to the cells.\u003c/li\u003e\u003c/ol\u003e",
+      "bodyText": "Tube 1 — DNA mix 125 µL Opti-MEM. 2.75 µL P3000 reagent . 833 ng of each packaging plasmid (two plasmids). 833 ng gRNA plasmid. Tube 2 — Lipofectamine mix 125 µL Opti-MEM. 5 µL Lipofectamine 3000 reagent. Mixing and addition Combine 125 µL from tube 1 with 125 µL from tube 2 (1:1), giving 250 µL in total. Vortex thoroughly and incubate for 15 minutes at room temperature. Add 250 µL of the mixture dropwise to the cells."
     },
     {
       "id": "spri-dna-purification",
@@ -297,7 +298,7 @@ window.WIKI_CONTENT = {
       "id": "qubit-rna",
       "title": "Qubit RNA HS / BR measurements",
       "category": "genomic-libraries",
-      "summary": "Working-solution and measurement notes; the buffer volume is missing from the source.",
+      "summary": "Carlos's working-solution recipe and sample volumes for Qubit RNA HS or BR measurements.",
       "keywords": [
         "Qubit",
         "RNA HS",
@@ -309,14 +310,14 @@ window.WIKI_CONTENT = {
         "quantification",
         "measurement"
       ],
-      "status": "needs-review",
+      "status": "reference",
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
-      "review_note": "The working-solution recipe gives 1 µL red reagent but omits the buffer volume.",
-      "html": "\u003ch2\u003eReagent location\u003c/h2\u003e\n\u003cp\u003eThe RNA assay solution is next to the balance and Qubit. The red reagent is in a closed blue cylindrical container.\u003c/p\u003e\n\u003ch2\u003eMeasurement steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003ePrepare the RNA HS or BR working solution. The notes specify 1 µL of the red reagent but omit the buffer volume; confirm this volume before preparing it.\u003c/li\u003e\u003cli\u003eMix 2 µL sample with 198 µL working solution.\u003c/li\u003e\u003cli\u003eConfigure the Qubit for the appropriate assay.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eStandards\u003c/h2\u003e\n\u003cp\u003eStandards are on the top shelf of the 4°C fridge below the PCR machine.\u003c/p\u003e",
-      "bodyText": "Reagent location The RNA assay solution is next to the balance and Qubit. The red reagent is in a closed blue cylindrical container. Measurement steps Prepare the RNA HS or BR working solution. The notes specify 1 µL of the red reagent but omit the buffer volume; confirm this volume before preparing it. Mix 2 µL sample with 198 µL working solution. Configure the Qubit for the appropriate assay. Standards Standards are on the top shelf of the 4°C fridge below the PCR machine."
+      "source": "Carlos's lab guidelines and clarifications, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eReagent location\u003c/h2\u003e\n\u003cp\u003eThe RNA assay solution is next to the balance and Qubit. The red reagent is in a closed blue cylindrical container.\u003c/p\u003e\n\u003ch2\u003eMeasurement steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003ePrepare the RNA HS or BR working solution using Carlos&#x27;s recipe: \u003cstrong\u003e1 µL of the red reagent + 200 µL of buffer\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eMix 2 µL sample with 198 µL working solution.\u003c/li\u003e\u003cli\u003eConfigure the Qubit for the appropriate assay.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eStandards\u003c/h2\u003e\n\u003cp\u003eStandards are on the top shelf of the 4°C fridge below the PCR machine.\u003c/p\u003e",
+      "bodyText": "Reagent location The RNA assay solution is next to the balance and Qubit. The red reagent is in a closed blue cylindrical container. Measurement steps Prepare the RNA HS or BR working solution using Carlos's recipe: 1 µL of the red reagent + 200 µL of buffer . Mix 2 µL sample with 198 µL working solution. Configure the Qubit for the appropriate assay. Standards Standards are on the top shelf of the 4°C fridge below the PCR machine."
     },
     {
       "id": "qubit-dna",
@@ -416,14 +417,14 @@ window.WIKI_CONTENT = {
         "ethanol",
         "RNA contamination"
       ],
-      "status": "needs-review",
+      "status": "reference",
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's second-round lab notes",
-      "review_note": "The cleaning product is written as “RNAsap” in the notes. Confirm the exact product label and its required contact time and rinsing instructions before use.",
-      "html": "\u003ch2\u003eBefore and after use\u003c/h2\u003e\n\u003cp\u003eFor the nascent RNA protocol, Carlos specifies cleaning the douncer \u003cstrong\u003eboth before and after use\u003c/strong\u003e.\u003c/p\u003e\n\u003col\u003e\u003cli\u003eClean with the lab&#x27;s RNase decontamination reagent, written as “RNAsap” in the notes. Follow the product&#x27;s contact-time and rinsing instructions.\u003c/li\u003e\u003cli\u003eAfter completing that cleaning and any required rinse, spray with ethanol as specified in the lab notes.\u003c/li\u003e\u003c/ol\u003e\n\u003cp\u003eThe notes do not specify an ethanol concentration or a complete product-specific cleaning procedure. Check these details with Carlos; ethanol does not replace the RNase decontamination step.\u003c/p\u003e",
-      "bodyText": "Before and after use For the nascent RNA protocol, Carlos specifies cleaning the douncer both before and after use . Clean with the lab's RNase decontamination reagent, written as “RNAsap” in the notes. Follow the product's contact-time and rinsing instructions. After completing that cleaning and any required rinse, spray with ethanol as specified in the lab notes. The notes do not specify an ethanol concentration or a complete product-specific cleaning procedure. Check these details with Carlos; ethanol does not replace the RNase decontamination step."
+      "source": "Carlos's second-round lab notes and clarifications, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eWhere to find RNAsap\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003eRNAsap spray is on everyone&#x27;s lab bench.\u003c/strong\u003e\u003c/p\u003e\n\u003ch2\u003eBefore and after use\u003c/h2\u003e\n\u003cp\u003eFor the nascent RNA protocol, Carlos specifies cleaning the douncer \u003cstrong\u003eboth before and after use\u003c/strong\u003e.\u003c/p\u003e\n\u003col\u003e\u003cli\u003eClean with \u003cstrong\u003eRNAsap spray\u003c/strong\u003e. Follow the product&#x27;s contact-time and rinsing instructions.\u003c/li\u003e\u003cli\u003eAfter completing that cleaning and any required rinse, spray with ethanol as specified in the lab notes.\u003c/li\u003e\u003c/ol\u003e",
+      "bodyText": "Where to find RNAsap RNAsap spray is on everyone's lab bench. Before and after use For the nascent RNA protocol, Carlos specifies cleaning the douncer both before and after use . Clean with RNAsap spray . Follow the product's contact-time and rinsing instructions. After completing that cleaning and any required rinse, spray with ethanol as specified in the lab notes."
     },
     {
       "id": "sequencing-library-submission",
@@ -462,7 +463,7 @@ window.WIKI_CONTENT = {
       "id": "small-rna-spri-purification",
       "title": "Small RNA purification with SPRI beads",
       "category": "genomic-libraries",
-      "summary": "Purify small RNAs from an IVT reaction and ethanol mixture using SPRI beads, with two ethanol washes and elution in 50 µL.",
+      "summary": "Purify small RNAs from a 20 µL IVT reaction using 20 µL ethanol and 40 µL SPRI beads, with elution in 50 µL.",
       "keywords": [
         "small RNA",
         "short RNA",
@@ -480,12 +481,12 @@ window.WIKI_CONTENT = {
       ],
       "status": "reference",
       "maintainer": "Carlos",
-      "version": "1",
+      "version": "3",
       "reviewed": "",
-      "source": "Protocol excerpt supplied by Carlos; adapted on 23 October 2026",
+      "source": "Protocol excerpt and clarifications supplied by Carlos; adapted on 23 October 2026",
       "review_note": "",
-      "html": "\u003ch2\u003eWhere to find the beads\u003c/h2\u003e\n\u003cp\u003eThe \u003cstrong\u003eSPRI beads are stored at 4 °C\u003c/strong\u003e (refrigerated storage).\u003c/p\u003e\n\u003ch2\u003eStarting material\u003c/h2\u003e\n\u003cp\u003eBegin with the \u003cstrong\u003eIVT reaction already mixed with 100% ethanol\u003c/strong\u003e. Use the upstream protocol for the amount of ethanol to add; that amount is not specified in the supplied excerpt.\u003c/p\u003e\n\u003cp\u003eThe bead addition below is calculated from the \u003cstrong\u003ecombined volume of IVT reaction and ethanol\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003ePurification steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eFor every \u003cstrong\u003e500 µL of IVT reaction + ethanol mixture\u003c/strong\u003e, add \u003cstrong\u003e500 µL of SPRI beads\u003c/strong\u003e. Mix well by inversion or by pipetting with a P1000.\u003c/li\u003e\u003cli\u003eIncubate at room temperature for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eDivide the mixture among an appropriate number of \u003cstrong\u003e1.5 mL Lo-Bind tubes\u003c/strong\u003e and place them on a 1.5 mL magnetic rack. Alternatively, use a \u003cstrong\u003e15 mL tube and magnetic rack\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAllow the beads to separate for \u003cstrong\u003e5 minutes with a 1.5 mL rack\u003c/strong\u003e, or \u003cstrong\u003e15 minutes with a 15 mL rack\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eRemove and discard the supernatant. \u003cstrong\u003eRetain the beads\u003c/strong\u003e, which contain the RNA.\u003c/li\u003e\u003cli\u003eWith the tubes on the magnet, rinse the beads with \u003cstrong\u003e1 mL of 80% ethanol per 1.5 mL tube\u003c/strong\u003e, or \u003cstrong\u003eapproximately 10 mL of 80% ethanol for a 15 mL tube\u003c/strong\u003e. The beads do not need to be resuspended.\u003c/li\u003e\u003cli\u003eWait \u003cstrong\u003e1 minute\u003c/strong\u003e, then remove and discard the ethanol.\u003c/li\u003e\u003cli\u003eRepeat the wash: add the same volume of \u003cstrong\u003e80% ethanol\u003c/strong\u003e, wait \u003cstrong\u003e1 minute\u003c/strong\u003e, then remove and discard the ethanol.\u003c/li\u003e\u003cli\u003eRemove residual ethanol from the bottom of the tube using a \u003cstrong\u003eP200 or P20\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAir-dry for approximately \u003cstrong\u003e5 minutes in a 1.5 mL tube\u003c/strong\u003e, or \u003cstrong\u003e15 minutes in a 15 mL tube\u003c/strong\u003e, until the beads lose their glossy appearance and look matte. Avoid over-drying: the beads should not look cracked or dusty.\u003c/li\u003e\u003cli\u003eRemove the tubes from the magnet and \u003cstrong\u003eresuspend the beads in 50 µL of nuclease-free water\u003c/strong\u003e to elute the RNA.\u003c/li\u003e\u003cli\u003eIncubate at room temperature for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eIf needed, briefly pulse-spin to collect liquid from the tube walls.\u003c/li\u003e\u003cli\u003eReturn the tubes to the magnetic rack until the eluate is clear: approximately \u003cstrong\u003e2–5 minutes for a 1.5 mL tube\u003c/strong\u003e, or \u003cstrong\u003e5–10 minutes for a 15 mL tube\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eTransfer the clear RNA eluate to a clean tube without taking up beads. Leave a small amount of liquid behind if necessary to avoid bead carryover.\u003c/li\u003e\u003c/ol\u003e",
-      "bodyText": "Where to find the beads The SPRI beads are stored at 4 °C (refrigerated storage). Starting material Begin with the IVT reaction already mixed with 100% ethanol . Use the upstream protocol for the amount of ethanol to add; that amount is not specified in the supplied excerpt. The bead addition below is calculated from the combined volume of IVT reaction and ethanol . Purification steps For every 500 µL of IVT reaction + ethanol mixture , add 500 µL of SPRI beads . Mix well by inversion or by pipetting with a P1000. Incubate at room temperature for 5 minutes . Divide the mixture among an appropriate number of 1.5 mL Lo-Bind tubes and place them on a 1.5 mL magnetic rack. Alternatively, use a 15 mL tube and magnetic rack . Allow the beads to separate for 5 minutes with a 1.5 mL rack , or 15 minutes with a 15 mL rack . Remove and discard the supernatant. Retain the beads , which contain the RNA. With the tubes on the magnet, rinse the beads with 1 mL of 80% ethanol per 1.5 mL tube , or approximately 10 mL of 80% ethanol for a 15 mL tube . The beads do not need to be resuspended. Wait 1 minute , then remove and discard the ethanol. Repeat the wash: add the same volume of 80% ethanol , wait 1 minute , then remove and discard the ethanol. Remove residual ethanol from the bottom of the tube using a P200 or P20 . Air-dry for approximately 5 minutes in a 1.5 mL tube , or 15 minutes in a 15 mL tube , until the beads lose their glossy appearance and look matte. Avoid over-drying: the beads should not look cracked or dusty. Remove the tubes from the magnet and resuspend the beads in 50 µL of nuclease-free water to elute the RNA. Incubate at room temperature for 5 minutes . If needed, briefly pulse-spin to collect liquid from the tube walls. Return the tubes to the magnetic rack until the eluate is clear: approximately 2–5 minutes for a 1.5 mL tube , or 5–10 minutes for a 15 mL tube . Transfer the clear RNA eluate to a clean tube without taking up beads. Leave a small amount of liquid behind if necessary to avoid bead carryover."
+      "html": "\u003ch2\u003eWhere to find the materials\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e\u003cstrong\u003eSPRI beads:\u003c/strong\u003e 4 °C refrigerated storage.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eLarge magnetic rack:\u003c/strong\u003e drawers below the printer.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eLo-Bind tubes:\u003c/strong\u003e top shelves of the chemicals cabinet.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eStarting material\u003c/h2\u003e\n\u003cp\u003eThe lab&#x27;s IVT reactions are \u003cstrong\u003e20 µL per tube\u003c/strong\u003e. Use one \u003cstrong\u003e1.5 mL Lo-Bind tube\u003c/strong\u003e per reaction for purification.\u003c/p\u003e\n\u003cp\u003eMix the IVT reaction with \u003cstrong\u003ean equal volume of 100% ethanol (1:1, ethanol : IVT reaction)\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eThe bead addition below is calculated from the \u003cstrong\u003ecombined volume of IVT reaction and ethanol\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003ePurification steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eIn a \u003cstrong\u003e1.5 mL Lo-Bind tube\u003c/strong\u003e, add \u003cstrong\u003e20 µL of 100% ethanol to the 20 µL IVT reaction (1:1)\u003c/strong\u003e. Then add \u003cstrong\u003e40 µL SPRI beads\u003c/strong\u003e, equal to the combined IVT + ethanol volume. Mix well by inversion or pipetting.\u003c/li\u003e\u003cli\u003eIncubate at room temperature for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003ePlace the tube on a \u003cstrong\u003e1.5 mL magnetic rack\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAllow the beads to separate for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eRemove and discard the supernatant. \u003cstrong\u003eRetain the beads\u003c/strong\u003e, which contain the RNA.\u003c/li\u003e\u003cli\u003eWith the tube on the magnet, rinse the beads with \u003cstrong\u003e1 mL of 80% ethanol\u003c/strong\u003e. The beads do not need to be resuspended.\u003c/li\u003e\u003cli\u003eWait \u003cstrong\u003e1 minute\u003c/strong\u003e, then remove and discard the ethanol.\u003c/li\u003e\u003cli\u003eRepeat the wash: add the same volume of \u003cstrong\u003e80% ethanol\u003c/strong\u003e, wait \u003cstrong\u003e1 minute\u003c/strong\u003e, then remove and discard the ethanol.\u003c/li\u003e\u003cli\u003eRemove residual ethanol from the bottom of the tube using a \u003cstrong\u003eP200 or P20\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAir-dry for approximately \u003cstrong\u003e5 minutes\u003c/strong\u003e, until the beads lose their glossy appearance and look matte. Avoid over-drying: the beads should not look cracked or dusty.\u003c/li\u003e\u003cli\u003eRemove the tube from the magnet and \u003cstrong\u003eresuspend the beads in 50 µL of nuclease-free water\u003c/strong\u003e to elute the RNA.\u003c/li\u003e\u003cli\u003eIncubate at room temperature for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eIf needed, briefly pulse-spin to collect liquid from the tube walls.\u003c/li\u003e\u003cli\u003eReturn the tube to the magnetic rack until the eluate is clear: approximately \u003cstrong\u003e2–5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eTransfer the clear RNA eluate to a clean tube without taking up beads. Leave a small amount of liquid behind if necessary to avoid bead carryover.\u003c/li\u003e\u003c/ol\u003e",
+      "bodyText": "Where to find the materials SPRI beads: 4 °C refrigerated storage. Large magnetic rack: drawers below the printer. Lo-Bind tubes: top shelves of the chemicals cabinet. Starting material The lab's IVT reactions are 20 µL per tube . Use one 1.5 mL Lo-Bind tube per reaction for purification. Mix the IVT reaction with an equal volume of 100% ethanol (1:1, ethanol : IVT reaction) . The bead addition below is calculated from the combined volume of IVT reaction and ethanol . Purification steps In a 1.5 mL Lo-Bind tube , add 20 µL of 100% ethanol to the 20 µL IVT reaction (1:1) . Then add 40 µL SPRI beads , equal to the combined IVT + ethanol volume. Mix well by inversion or pipetting. Incubate at room temperature for 5 minutes . Place the tube on a 1.5 mL magnetic rack . Allow the beads to separate for 5 minutes . Remove and discard the supernatant. Retain the beads , which contain the RNA. With the tube on the magnet, rinse the beads with 1 mL of 80% ethanol . The beads do not need to be resuspended. Wait 1 minute , then remove and discard the ethanol. Repeat the wash: add the same volume of 80% ethanol , wait 1 minute , then remove and discard the ethanol. Remove residual ethanol from the bottom of the tube using a P200 or P20 . Air-dry for approximately 5 minutes , until the beads lose their glossy appearance and look matte. Avoid over-drying: the beads should not look cracked or dusty. Remove the tube from the magnet and resuspend the beads in 50 µL of nuclease-free water to elute the RNA. Incubate at room temperature for 5 minutes . If needed, briefly pulse-spin to collect liquid from the tube walls. Return the tube to the magnetic rack until the eluate is clear: approximately 2–5 minutes . Transfer the clear RNA eluate to a clean tube without taking up beads. Leave a small amount of liquid behind if necessary to avoid bead carryover."
     }
   ],
   "locations": [
@@ -796,8 +797,8 @@ window.WIKI_CONTENT = {
         "transfection reagents"
       ],
       "uses": "transfection",
-      "note": "The source also says “S2 lab waste”. Confirm the exact room or area.",
-      "needsReview": true
+      "note": "",
+      "needsReview": false
     },
     {
       "id": "spri-beads",
@@ -878,7 +879,7 @@ window.WIKI_CONTENT = {
         "RNA assay reagent"
       ],
       "uses": "RNA concentration quantification measurement fluorescence",
-      "note": "The source does not include the working-solution buffer volume.",
+      "note": "",
       "needsReview": false
     },
     {
@@ -916,15 +917,70 @@ window.WIKI_CONTENT = {
       "name": "Liquid-waste tanks for TRIzol waste",
       "category": "lab-practice",
       "field": "Waste handling",
-      "location": "PCR room.",
+      "location": "PCR room: designated waste container labelled “TRIzol” or “Chloroform”.",
       "aliases": [
         "TRIzol waste tanks",
         "liquid waste tanks",
-        "waste containers"
+        "waste containers",
+        "chloroform waste container",
+        "TRIzol chloroform waste",
+        "chlorophorm waste"
       ],
       "uses": "waste disposal TRIzol",
-      "note": "Confirm the designated labelled container; see the Waste handling page.",
-      "needsReview": true
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "large-magnetic-rack",
+      "name": "Large magnetic rack",
+      "category": "genomic-libraries",
+      "field": "Equipment",
+      "location": "Drawers below the printer.",
+      "aliases": [
+        "big magnetic rack",
+        "large magnet",
+        "magnetic stand",
+        "magnetic separation rack",
+        "bead separation rack"
+      ],
+      "uses": "magnetic bead separation small RNA purification SPRI cleanup",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "lo-bind-tubes",
+      "name": "Lo-Bind tubes",
+      "category": "genomic-libraries",
+      "field": "Tubes and plastics",
+      "location": "Top shelves of the chemicals cabinet.",
+      "aliases": [
+        "LoBind tubes",
+        "low bind tubes",
+        "low binding tubes",
+        "low retention tubes",
+        "Lo-Bind Eppendorf tubes"
+      ],
+      "uses": "small RNA purification sample tubes nucleic acid recovery",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "rnasap",
+      "name": "RNAsap spray",
+      "category": "genomic-libraries",
+      "field": "Cleaning reagents",
+      "location": "On everyone's lab bench.",
+      "aliases": [
+        "RNAsap",
+        "RNA sap",
+        "RNase cleaning spray",
+        "RNase decontamination spray",
+        "RNA cleaning spray",
+        "douncer cleaner"
+      ],
+      "uses": "RNase decontamination RNA work douncer cleaning homogenizer cleaning before and after use",
+      "note": "",
+      "needsReview": false
     }
   ]
 };
