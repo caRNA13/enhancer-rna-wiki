@@ -37,10 +37,10 @@ window.WIKI_CONTENT = {
       "maintainer": "Carlos",
       "version": "",
       "reviewed": "",
-      "source": "Carlos's lab guidelines",
+      "source": "Carlos's lab guidelines and additions, 23 October 2026",
       "review_note": "",
-      "html": "\u003ch2\u003eFind an item\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"#view=locations\"\u003eOpen the location finder\u003c/a\u003e. It lists the locations in Carlos&#x27;s notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller.\u003c/p\u003e\n\u003ch2\u003eLandmarks in the notes\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003ePCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks.\u003c/li\u003e\u003cli\u003eSink area: storage above the sink and the cabinet next to the −20°C freezer.\u003c/li\u003e\u003cli\u003eCold room: parallel to the corridor containing the −80°C freezers.\u003c/li\u003e\u003cli\u003eS2 lab: a −20°C freezer and a 4°C fridge with a Steinmetz-labelled shelf.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eStock and missing items\u003c/h2\u003e\n\u003cp\u003eThese are listed locations, not live stock levels. Use \u003cstrong\u003eRequest a reagent\u003c/strong\u003e if an item is missing or running low.\u003c/p\u003e\n\u003cp\u003eThe Lipofectamine entry retains a location clarification from the source. Use the location finder to see the note.\u003c/p\u003e",
-      "bodyText": "Find an item Open the location finder . It lists the locations in Carlos's notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller. Landmarks in the notes PCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks. Sink area: storage above the sink and the cabinet next to the −20°C freezer. Cold room: parallel to the corridor containing the −80°C freezers. S2 lab: a −20°C freezer and a 4°C fridge with a Steinmetz-labelled shelf. Stock and missing items These are listed locations, not live stock levels. Use Request a reagent if an item is missing or running low. The Lipofectamine entry retains a location clarification from the source. Use the location finder to see the note."
+      "html": "\u003ch2\u003eFind an item\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"#view=locations\"\u003eOpen the location finder\u003c/a\u003e. It lists the locations in Carlos&#x27;s notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller.\u003c/p\u003e\n\u003ch2\u003eLandmarks in the notes\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003ePCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks.\u003c/li\u003e\u003cli\u003eSink area: storage above the sink and the cabinet next to the −20°C freezer.\u003c/li\u003e\u003cli\u003eCold room: parallel to the corridor containing the −80°C freezers.\u003c/li\u003e\u003cli\u003eS2 lab: a −20°C freezer and a 4°C fridge with a Steinmetz-labelled shelf.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eStock and missing items\u003c/h2\u003e\n\u003cp\u003eThese are listed locations, not live stock levels. Use \u003cstrong\u003eRequest a reagent\u003c/strong\u003e if an item is missing or running low.\u003c/p\u003e\n\u003ch2\u003eCommon −20 °C freezer\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e\u003cstrong\u003eGeneral drawer:\u003c/strong\u003e ampicillin and enzymes, including restriction enzymes, DNases, RNases, and reverse-transcription-related enzymes and reagents.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eKits drawer:\u003c/strong\u003e Illumina barcodes.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eOrdering supplies\u003c/h2\u003e\n\u003cp\u003eSee \u003ca href=\"#page=budget-codes\"\u003ebudget numbers for lab purchases\u003c/a\u003e: \u003cstrong\u003e16001\u003c/strong\u003e for small tissue-culture consumables such as pipettes and tubes; \u003cstrong\u003e16884\u003c/strong\u003e for general lab purchases.\u003c/p\u003e",
+      "bodyText": "Find an item Open the location finder . It lists the locations in Carlos's notes and accepts related names such as serum for FBS, gel powder for agarose, and pipette boy for the large pipettes used with a pipette controller. Landmarks in the notes PCR room: cabinets in front of the PCR machines, space above the machines, and liquid-waste tanks. Sink area: storage above the sink and the cabinet next to the −20°C freezer. Cold room: parallel to the corridor containing the −80°C freezers. S2 lab: a −20°C freezer and a 4°C fridge with a Steinmetz-labelled shelf. Stock and missing items These are listed locations, not live stock levels. Use Request a reagent if an item is missing or running low. Common −20 °C freezer General drawer: ampicillin and enzymes, including restriction enzymes, DNases, RNases, and reverse-transcription-related enzymes and reagents. Kits drawer: Illumina barcodes. Ordering supplies See budget numbers for lab purchases : 16001 for small tissue-culture consumables such as pipettes and tubes; 16884 for general lab purchases."
     },
     {
       "id": "waste",
@@ -456,8 +456,8 @@ window.WIKI_CONTENT = {
       "reviewed": "",
       "source": "Carlos's second-round lab notes and supplied index table",
       "review_note": "",
-      "html": "\u003ch2\u003eWhat to submit\u003c/h2\u003e\n\u003col\u003e\u003cli\u003ePrepare an \u003cstrong\u003eExcel file (.xlsx) containing exactly three columns: sample_id, i5, i7\u003c/strong\u003e. Use one row per library and keep each index sequence paired with its sample ID.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eAttach the TapeStation results folder\u003c/strong\u003e for the submitted libraries. Make sure its sample names can be matched to the Excel file.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eExample sample and index table\u003c/h2\u003e\n\u003cp\u003eThese are the sample IDs and sequences supplied by Carlos. Replace them with the actual libraries when preparing a new submission; do not reuse the example indexes unless they are the ones used for those libraries.\u003c/p\u003e\n\u003cdiv class=\"table-wrap\" role=\"region\" aria-label=\"Scrollable data table\" tabindex=\"0\"\u003e\u003ctable\u003e\u003cthead\u003e\u003ctr\u003e\u003cth scope=\"col\"\u003esample_id\u003c/th\u003e\u003cth scope=\"col\"\u003ei5\u003c/th\u003e\u003cth scope=\"col\"\u003ei7\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch1\u003c/td\u003e\u003ctd\u003eCTCGACTT\u003c/td\u003e\u003ctd\u003eGGTCAGAT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch1\u003c/td\u003e\u003ctd\u003eCTTCGGTT\u003c/td\u003e\u003ctd\u003eCTCTGGTT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day6p5_batch1\u003c/td\u003e\u003ctd\u003eCCACAACA\u003c/td\u003e\u003ctd\u003eTGTGGTAC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch2\u003c/td\u003e\u003ctd\u003eTCCTCATG\u003c/td\u003e\u003ctd\u003eAGGTGTAC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch2a\u003c/td\u003e\u003ctd\u003eGTCAGTCA\u003c/td\u003e\u003ctd\u003eTAATGCCG\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch2b\u003c/td\u003e\u003ctd\u003eTACCTGCA\u003c/td\u003e\u003ctd\u003eTGATGTCC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch2\u003c/td\u003e\u003ctd\u003eAGACGCTA\u003c/td\u003e\u003ctd\u003eTGTACACC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch2a\u003c/td\u003e\u003ctd\u003eCAACACAG\u003c/td\u003e\u003ctd\u003eTGGCTATC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch2b\u003c/td\u003e\u003ctd\u003eGTACCACA\u003c/td\u003e\u003ctd\u003eTGTTGTGG\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day6p5_batch2\u003c/td\u003e\u003ctd\u003eCCAGTTGA\u003c/td\u003e\u003ctd\u003eATGACGTC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day6p5_batch2A\u003c/td\u003e\u003ctd\u003eTGGTGAAG\u003c/td\u003e\u003ctd\u003eGCTGTAAG\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e\n\u003cp\u003ePreserve sample IDs exactly, including the capital \u003cstrong\u003eA\u003c/strong\u003e in \u003ccode\u003eCardioid_Day6p5_batch2A\u003c/code\u003e. The stray quote after the final i7 sequence has been removed; all 11 supplied index pairs are otherwise unchanged. Confirm the sequencing facility&#x27;s required index orientation before submission; no index has been reverse-complemented here.\u003c/p\u003e",
-      "bodyText": "What to submit Prepare an Excel file (.xlsx) containing exactly three columns: sample_id, i5, i7 . Use one row per library and keep each index sequence paired with its sample ID. Attach the TapeStation results folder for the submitted libraries. Make sure its sample names can be matched to the Excel file. Example sample and index table These are the sample IDs and sequences supplied by Carlos. Replace them with the actual libraries when preparing a new submission; do not reuse the example indexes unless they are the ones used for those libraries. sample_id i5 i7 Cardioid_Day1p5_batch1 CTCGACTT GGTCAGAT Cardioid_Day4p5_batch1 CTTCGGTT CTCTGGTT Cardioid_Day6p5_batch1 CCACAACA TGTGGTAC Cardioid_Day1p5_batch2 TCCTCATG AGGTGTAC Cardioid_Day1p5_batch2a GTCAGTCA TAATGCCG Cardioid_Day1p5_batch2b TACCTGCA TGATGTCC Cardioid_Day4p5_batch2 AGACGCTA TGTACACC Cardioid_Day4p5_batch2a CAACACAG TGGCTATC Cardioid_Day4p5_batch2b GTACCACA TGTTGTGG Cardioid_Day6p5_batch2 CCAGTTGA ATGACGTC Cardioid_Day6p5_batch2A TGGTGAAG GCTGTAAG Preserve sample IDs exactly, including the capital A in Cardioid_Day6p5_batch2A . The stray quote after the final i7 sequence has been removed; all 11 supplied index pairs are otherwise unchanged. Confirm the sequencing facility's required index orientation before submission; no index has been reverse-complemented here."
+      "html": "\u003ch2\u003eWhat to submit\u003c/h2\u003e\n\u003col\u003e\u003cli\u003ePrepare an \u003cstrong\u003eExcel file (.xlsx) containing exactly three columns: sample_id, i5, i7\u003c/strong\u003e. Use one row per library and keep each index sequence paired with its sample ID.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eAttach the TapeStation results folder\u003c/strong\u003e for the submitted libraries. Make sure its sample names can be matched to the Excel file.\u003c/li\u003e\u003c/ol\u003e\n\u003cp\u003eFor assay choice, usage logging, and protocol location, see \u003ca href=\"#page=running-tapestation\"\u003eRunning TapeStation\u003c/a\u003e.\u003c/p\u003e\n\u003ch2\u003eExample sample and index table\u003c/h2\u003e\n\u003cp\u003eThese are the sample IDs and sequences supplied by Carlos. Replace them with the actual libraries when preparing a new submission; do not reuse the example indexes unless they are the ones used for those libraries.\u003c/p\u003e\n\u003cdiv class=\"table-wrap\" role=\"region\" aria-label=\"Scrollable data table\" tabindex=\"0\"\u003e\u003ctable\u003e\u003cthead\u003e\u003ctr\u003e\u003cth scope=\"col\"\u003esample_id\u003c/th\u003e\u003cth scope=\"col\"\u003ei5\u003c/th\u003e\u003cth scope=\"col\"\u003ei7\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch1\u003c/td\u003e\u003ctd\u003eCTCGACTT\u003c/td\u003e\u003ctd\u003eGGTCAGAT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch1\u003c/td\u003e\u003ctd\u003eCTTCGGTT\u003c/td\u003e\u003ctd\u003eCTCTGGTT\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day6p5_batch1\u003c/td\u003e\u003ctd\u003eCCACAACA\u003c/td\u003e\u003ctd\u003eTGTGGTAC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch2\u003c/td\u003e\u003ctd\u003eTCCTCATG\u003c/td\u003e\u003ctd\u003eAGGTGTAC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch2a\u003c/td\u003e\u003ctd\u003eGTCAGTCA\u003c/td\u003e\u003ctd\u003eTAATGCCG\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day1p5_batch2b\u003c/td\u003e\u003ctd\u003eTACCTGCA\u003c/td\u003e\u003ctd\u003eTGATGTCC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch2\u003c/td\u003e\u003ctd\u003eAGACGCTA\u003c/td\u003e\u003ctd\u003eTGTACACC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch2a\u003c/td\u003e\u003ctd\u003eCAACACAG\u003c/td\u003e\u003ctd\u003eTGGCTATC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day4p5_batch2b\u003c/td\u003e\u003ctd\u003eGTACCACA\u003c/td\u003e\u003ctd\u003eTGTTGTGG\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day6p5_batch2\u003c/td\u003e\u003ctd\u003eCCAGTTGA\u003c/td\u003e\u003ctd\u003eATGACGTC\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eCardioid_Day6p5_batch2A\u003c/td\u003e\u003ctd\u003eTGGTGAAG\u003c/td\u003e\u003ctd\u003eGCTGTAAG\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e\n\u003cp\u003ePreserve sample IDs exactly, including the capital \u003cstrong\u003eA\u003c/strong\u003e in \u003ccode\u003eCardioid_Day6p5_batch2A\u003c/code\u003e. The stray quote after the final i7 sequence has been removed; all 11 supplied index pairs are otherwise unchanged. Confirm the sequencing facility&#x27;s required index orientation before submission; no index has been reverse-complemented here.\u003c/p\u003e",
+      "bodyText": "What to submit Prepare an Excel file (.xlsx) containing exactly three columns: sample_id, i5, i7 . Use one row per library and keep each index sequence paired with its sample ID. Attach the TapeStation results folder for the submitted libraries. Make sure its sample names can be matched to the Excel file. For assay choice, usage logging, and protocol location, see Running TapeStation . Example sample and index table These are the sample IDs and sequences supplied by Carlos. Replace them with the actual libraries when preparing a new submission; do not reuse the example indexes unless they are the ones used for those libraries. sample_id i5 i7 Cardioid_Day1p5_batch1 CTCGACTT GGTCAGAT Cardioid_Day4p5_batch1 CTTCGGTT CTCTGGTT Cardioid_Day6p5_batch1 CCACAACA TGTGGTAC Cardioid_Day1p5_batch2 TCCTCATG AGGTGTAC Cardioid_Day1p5_batch2a GTCAGTCA TAATGCCG Cardioid_Day1p5_batch2b TACCTGCA TGATGTCC Cardioid_Day4p5_batch2 AGACGCTA TGTACACC Cardioid_Day4p5_batch2a CAACACAG TGGCTATC Cardioid_Day4p5_batch2b GTACCACA TGTTGTGG Cardioid_Day6p5_batch2 CCAGTTGA ATGACGTC Cardioid_Day6p5_batch2A TGGTGAAG GCTGTAAG Preserve sample IDs exactly, including the capital A in Cardioid_Day6p5_batch2A . The stray quote after the final i7 sequence has been removed; all 11 supplied index pairs are otherwise unchanged. Confirm the sequencing facility's required index orientation before submission; no index has been reverse-complemented here."
     },
     {
       "id": "small-rna-spri-purification",
@@ -487,6 +487,76 @@ window.WIKI_CONTENT = {
       "review_note": "",
       "html": "\u003ch2\u003eWhere to find the materials\u003c/h2\u003e\n\u003cul\u003e\u003cli\u003e\u003cstrong\u003eSPRI beads:\u003c/strong\u003e 4 °C refrigerated storage.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eLarge magnetic rack:\u003c/strong\u003e drawers below the printer.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eLo-Bind tubes:\u003c/strong\u003e top shelves of the chemicals cabinet.\u003c/li\u003e\u003c/ul\u003e\n\u003ch2\u003eStarting material\u003c/h2\u003e\n\u003cp\u003eThe lab&#x27;s IVT reactions are \u003cstrong\u003e20 µL per tube\u003c/strong\u003e. Use one \u003cstrong\u003e1.5 mL Lo-Bind tube\u003c/strong\u003e per reaction for purification.\u003c/p\u003e\n\u003cp\u003eMix the IVT reaction with \u003cstrong\u003ean equal volume of 100% ethanol (1:1, ethanol : IVT reaction)\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eThe bead addition below is calculated from the \u003cstrong\u003ecombined volume of IVT reaction and ethanol\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003ePurification steps\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eIn a \u003cstrong\u003e1.5 mL Lo-Bind tube\u003c/strong\u003e, add \u003cstrong\u003e20 µL of 100% ethanol to the 20 µL IVT reaction (1:1)\u003c/strong\u003e. Then add \u003cstrong\u003e40 µL SPRI beads\u003c/strong\u003e, equal to the combined IVT + ethanol volume. Mix well by inversion or pipetting.\u003c/li\u003e\u003cli\u003eIncubate at room temperature for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003ePlace the tube on a \u003cstrong\u003e1.5 mL magnetic rack\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAllow the beads to separate for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eRemove and discard the supernatant. \u003cstrong\u003eRetain the beads\u003c/strong\u003e, which contain the RNA.\u003c/li\u003e\u003cli\u003eWith the tube on the magnet, rinse the beads with \u003cstrong\u003e1 mL of 80% ethanol\u003c/strong\u003e. The beads do not need to be resuspended.\u003c/li\u003e\u003cli\u003eWait \u003cstrong\u003e1 minute\u003c/strong\u003e, then remove and discard the ethanol.\u003c/li\u003e\u003cli\u003eRepeat the wash: add the same volume of \u003cstrong\u003e80% ethanol\u003c/strong\u003e, wait \u003cstrong\u003e1 minute\u003c/strong\u003e, then remove and discard the ethanol.\u003c/li\u003e\u003cli\u003eRemove residual ethanol from the bottom of the tube using a \u003cstrong\u003eP200 or P20\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAir-dry for approximately \u003cstrong\u003e5 minutes\u003c/strong\u003e, until the beads lose their glossy appearance and look matte. Avoid over-drying: the beads should not look cracked or dusty.\u003c/li\u003e\u003cli\u003eRemove the tube from the magnet and \u003cstrong\u003eresuspend the beads in 50 µL of nuclease-free water\u003c/strong\u003e to elute the RNA.\u003c/li\u003e\u003cli\u003eIncubate at room temperature for \u003cstrong\u003e5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eIf needed, briefly pulse-spin to collect liquid from the tube walls.\u003c/li\u003e\u003cli\u003eReturn the tube to the magnetic rack until the eluate is clear: approximately \u003cstrong\u003e2–5 minutes\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eTransfer the clear RNA eluate to a clean tube without taking up beads. Leave a small amount of liquid behind if necessary to avoid bead carryover.\u003c/li\u003e\u003c/ol\u003e",
       "bodyText": "Where to find the materials SPRI beads: 4 °C refrigerated storage. Large magnetic rack: drawers below the printer. Lo-Bind tubes: top shelves of the chemicals cabinet. Starting material The lab's IVT reactions are 20 µL per tube . Use one 1.5 mL Lo-Bind tube per reaction for purification. Mix the IVT reaction with an equal volume of 100% ethanol (1:1, ethanol : IVT reaction) . The bead addition below is calculated from the combined volume of IVT reaction and ethanol . Purification steps In a 1.5 mL Lo-Bind tube , add 20 µL of 100% ethanol to the 20 µL IVT reaction (1:1) . Then add 40 µL SPRI beads , equal to the combined IVT + ethanol volume. Mix well by inversion or pipetting. Incubate at room temperature for 5 minutes . Place the tube on a 1.5 mL magnetic rack . Allow the beads to separate for 5 minutes . Remove and discard the supernatant. Retain the beads , which contain the RNA. With the tube on the magnet, rinse the beads with 1 mL of 80% ethanol . The beads do not need to be resuspended. Wait 1 minute , then remove and discard the ethanol. Repeat the wash: add the same volume of 80% ethanol , wait 1 minute , then remove and discard the ethanol. Remove residual ethanol from the bottom of the tube using a P200 or P20 . Air-dry for approximately 5 minutes , until the beads lose their glossy appearance and look matte. Avoid over-drying: the beads should not look cracked or dusty. Remove the tube from the magnet and resuspend the beads in 50 µL of nuclease-free water to elute the RNA. Incubate at room temperature for 5 minutes . If needed, briefly pulse-spin to collect liquid from the tube walls. Return the tube to the magnetic rack until the eluate is clear: approximately 2–5 minutes . Transfer the clear RNA eluate to a clean tube without taking up beads. Leave a small amount of liquid behind if necessary to avoid bead carryover."
+    },
+    {
+      "id": "budget-codes",
+      "title": "Budget numbers for lab purchases",
+      "category": "lab-practice",
+      "summary": "Use 16001 for small tissue-culture consumables and 16884 for general lab purchases.",
+      "keywords": [
+        "budget",
+        "budget number",
+        "budget code",
+        "cost centre",
+        "cost center",
+        "account",
+        "ordering",
+        "orders",
+        "purchasing",
+        "purchase",
+        "tissue culture",
+        "cell culture",
+        "pipettes",
+        "tubes",
+        "consumables",
+        "16001",
+        "16884"
+      ],
+      "status": "reference",
+      "maintainer": "Carlos",
+      "version": "1",
+      "reviewed": "",
+      "source": "Carlos's lab instructions, 23 October 2026",
+      "review_note": "",
+      "html": "\u003ch2\u003eWhich budget number to use\u003c/h2\u003e\n\u003cdiv class=\"table-wrap\" role=\"region\" aria-label=\"Scrollable data table\" tabindex=\"0\"\u003e\u003ctable\u003e\u003cthead\u003e\u003ctr\u003e\u003cth scope=\"col\"\u003ePurchase\u003c/th\u003e\u003cth scope=\"col\"\u003eBudget number\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003e\u003cstrong\u003eSmall tissue-culture consumables\u003c/strong\u003e, such as pipettes and tubes\u003c/td\u003e\u003ctd\u003e\u003cstrong\u003e16001\u003c/strong\u003e\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003e\u003cstrong\u003eGeneral lab purchases\u003c/strong\u003e\u003c/td\u003e\u003ctd\u003e\u003cstrong\u003e16884\u003c/strong\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e\n\u003cp\u003eUse the appropriate budget number when ordering supplies.\u003c/p\u003e",
+      "bodyText": "Which budget number to use Purchase Budget number Small tissue-culture consumables , such as pipettes and tubes 16001 General lab purchases 16884 Use the appropriate budget number when ordering supplies."
+    },
+    {
+      "id": "running-tapestation",
+      "title": "Running TapeStation",
+      "category": "genomic-libraries",
+      "summary": "Find the protocols downstairs, record usage in the Excel file, and select the DNA or RNA assay for your samples.",
+      "keywords": [
+        "TapeStation",
+        "tape station",
+        "running",
+        "QC",
+        "quality control",
+        "library prep",
+        "DNA HS 1000",
+        "HS D1000",
+        "High Sensitivity D1000",
+        "RNA",
+        "nascent RNA",
+        "RNA kit",
+        "ladder",
+        "Genecore",
+        "GeneCore",
+        "Excel",
+        "usage log",
+        "reactions",
+        "downstairs",
+        "dilution",
+        "5 ng/uL"
+      ],
+      "status": "reference",
+      "maintainer": "Carlos",
+      "version": "1",
+      "reviewed": "",
+      "source": "Carlos's lab instructions, 23 October 2026; Agilent D1000 and High Sensitivity D1000 ScreenTape data sheet",
+      "review_note": "",
+      "html": "\u003ch2\u003eBefore using the machine\u003c/h2\u003e\n\u003col\u003e\u003cli\u003e\u003cstrong\u003eFill in the TapeStation Excel usage file before use\u003c/strong\u003e, recording the \u003cstrong\u003ename of the lab\u003c/strong\u003e and the \u003cstrong\u003enumber of reactions used\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eFind the \u003cstrong\u003eprotocols downstairs, next to the TapeStation machine\u003c/strong\u003e. Follow the protocol for the assay you are running.\u003c/li\u003e\u003cli\u003eFor an RNA run, \u003cstrong\u003erequest the RNA ladder from GeneCore\u003c/strong\u003e before use.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eDNA library preparation QC\u003c/h2\u003e\n\u003cp\u003eUse \u003cstrong\u003eHigh Sensitivity D1000 ScreenTape (DNA HS 1000)\u003c/strong\u003e for library-preparation QC. Its DNA sizing range is \u003cstrong\u003e35–1,000 bp\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCarlos&#x27;s lab QC rule:\u003c/strong\u003e run samples \u003cstrong\u003ewithout dilution at concentrations up to 5 ng/µL\u003c/strong\u003e. \u003cstrong\u003eDilute samples above 5 ng/µL\u003c/strong\u003e before running them.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFor quantitative measurements\u003c/strong\u003e, use Agilent&#x27;s specified \u003cstrong\u003eHS D1000 quantitative range of 0.01–1 ng/µL\u003c/strong\u003e. Carlos&#x27;s 5 ng/µL cutoff is the lab&#x27;s QC practice; it does not extend the manufacturer&#x27;s quantitative range. Follow the assay protocol next to the machine for sample preparation. \u003ca href=\"https://www.agilent.com/cs/library/datasheets/public/datasheet-d1000-hisens-d1000-screentape-tapestation-5991-2493EN-agilent.pdf\"\u003eAgilent D1000 and HS D1000 data sheet\u003c/a\u003e.\u003c/p\u003e\n\u003ch2\u003eRNA from nascent RNA work\u003c/h2\u003e\n\u003cp\u003eCarlos recommends the \u003cstrong\u003eRNA kit for QC of RNA from nascent RNA work\u003c/strong\u003e. Follow the RNA assay protocol next to the machine and \u003cstrong\u003erequest its RNA ladder from GeneCore\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003eResults for sequencing submission\u003c/h2\u003e\n\u003cp\u003eKeep the \u003cstrong\u003eTapeStation results folder\u003c/strong\u003e with the matching library sample names. Attach it when \u003ca href=\"#page=sequencing-library-submission\"\u003esubmitting libraries for sequencing\u003c/a\u003e.\u003c/p\u003e",
+      "bodyText": "Before using the machine Fill in the TapeStation Excel usage file before use , recording the name of the lab and the number of reactions used . Find the protocols downstairs, next to the TapeStation machine . Follow the protocol for the assay you are running. For an RNA run, request the RNA ladder from GeneCore before use. DNA library preparation QC Use High Sensitivity D1000 ScreenTape (DNA HS 1000) for library-preparation QC. Its DNA sizing range is 35–1,000 bp . Carlos's lab QC rule: run samples without dilution at concentrations up to 5 ng/µL . Dilute samples above 5 ng/µL before running them. For quantitative measurements , use Agilent's specified HS D1000 quantitative range of 0.01–1 ng/µL . Carlos's 5 ng/µL cutoff is the lab's QC practice; it does not extend the manufacturer's quantitative range. Follow the assay protocol next to the machine for sample preparation. Agilent D1000 and HS D1000 data sheet . RNA from nascent RNA work Carlos recommends the RNA kit for QC of RNA from nascent RNA work . Follow the RNA assay protocol next to the machine and request its RNA ladder from GeneCore . Results for sequencing submission Keep the TapeStation results folder with the matching library sample names. Attach it when submitting libraries for sequencing ."
     }
   ],
   "locations": [
@@ -650,7 +720,7 @@ window.WIKI_CONTENT = {
       "name": "Q5",
       "category": "genomic-libraries",
       "field": "Enzymes",
-      "location": "General drawer of the −20°C freezer.",
+      "location": "Common −20 °C freezer, drawer labelled “General”.",
       "aliases": [
         "Q5 polymerase",
         "PCR polymerase",
@@ -665,7 +735,7 @@ window.WIKI_CONTENT = {
       "name": "KAPA HiFi",
       "category": "genomic-libraries",
       "field": "Enzymes",
-      "location": "General drawer of the −20°C freezer.",
+      "location": "Common −20 °C freezer, drawer labelled “General”.",
       "aliases": [
         "KAPA hifi",
         "KAPA polymerase",
@@ -681,7 +751,7 @@ window.WIKI_CONTENT = {
       "name": "Restriction enzymes",
       "category": "genomic-libraries",
       "field": "Enzymes",
-      "location": "−20°C freezer; the drawer is not specified.",
+      "location": "Common −20 °C freezer, drawer labelled “General”.",
       "aliases": [
         "restriction enzyme",
         "restriction digest",
@@ -709,10 +779,10 @@ window.WIKI_CONTENT = {
     },
     {
       "id": "rnaseq-toolbox",
-      "name": "Protocol enzymes — RNAseq toolbox",
+      "name": "RNA-seq protocol enzymes",
       "category": "genomic-libraries",
       "field": "Enzymes",
-      "location": "Box labelled “RNAseq toolbox” in the −20°C freezer.",
+      "location": "Common −20 °C freezer, drawer labelled “General”.",
       "aliases": [
         "RNAseq toolbox",
         "RNA seq toolbox",
@@ -720,7 +790,7 @@ window.WIKI_CONTENT = {
         "RNA sequencing enzymes"
       ],
       "uses": "RNA sequencing library enzymes",
-      "note": "The notes group protocol-related enzymes here; individual contents are not listed.",
+      "note": "Earlier lab notes refer to this stock as the “RNAseq toolbox”.",
       "needsReview": false
     },
     {
@@ -979,6 +1049,105 @@ window.WIKI_CONTENT = {
         "douncer cleaner"
       ],
       "uses": "RNase decontamination RNA work douncer cleaning homogenizer cleaning before and after use",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "ampicillin",
+      "name": "Ampicillin",
+      "category": "lab-practice",
+      "field": "Antibiotics",
+      "location": "Common −20 °C freezer, drawer labelled “General”.",
+      "aliases": [
+        "ampicilin",
+        "ampicillin antibiotic",
+        "amp",
+        "bacterial antibiotic"
+      ],
+      "uses": "bacterial culture antibiotic selection",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "common-enzymes",
+      "name": "Enzymes — shared stock",
+      "category": "genomic-libraries",
+      "field": "Enzymes",
+      "location": "Common −20 °C freezer, drawer labelled “General”.",
+      "aliases": [
+        "all enzymes",
+        "general enzymes",
+        "restriction enzymes",
+        "restriction endonucleases",
+        "DNase",
+        "DNases",
+        "deoxyribonuclease",
+        "RNase",
+        "RNases",
+        "ribonuclease",
+        "RT",
+        "reverse transcriptase",
+        "reverse transcription enzymes",
+        "RT reagents",
+        "reverse transcription reagents"
+      ],
+      "uses": "DNA digestion RNA digestion DNA removal RNA removal reverse transcription cDNA synthesis enzyme reagents",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "illumina-barcodes",
+      "name": "Illumina barcodes",
+      "category": "genomic-libraries",
+      "field": "Library reagents",
+      "location": "Common −20 °C freezer, drawer labelled “Kits”.",
+      "aliases": [
+        "Illumina indexes",
+        "Illumina indices",
+        "index primers",
+        "indexing primers",
+        "sequencing barcodes",
+        "i5",
+        "i7",
+        "index adapters",
+        "barcode primers"
+      ],
+      "uses": "library preparation sample indexing multiplex sequencing",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "tapestation-protocols",
+      "name": "TapeStation protocols",
+      "category": "genomic-libraries",
+      "field": "Protocols and equipment",
+      "location": "Downstairs, next to the TapeStation machine.",
+      "aliases": [
+        "TapeStation instructions",
+        "tape station protocol",
+        "DNA HS 1000 protocol",
+        "HS D1000 protocol",
+        "RNA QC protocol",
+        "TapeStation manual"
+      ],
+      "uses": "DNA library quality control RNA quality control assay setup",
+      "note": "",
+      "needsReview": false
+    },
+    {
+      "id": "tapestation-rna-ladder",
+      "name": "TapeStation RNA ladder",
+      "category": "genomic-libraries",
+      "field": "QC reagents",
+      "location": "Request from GeneCore before an RNA run.",
+      "aliases": [
+        "RNA ladder",
+        "RNA ScreenTape ladder",
+        "Genecore ladder",
+        "TapeStation ladder",
+        "RNA size standard"
+      ],
+      "uses": "RNA quality control nascent RNA TapeStation assay",
       "note": "",
       "needsReview": false
     }
