@@ -614,6 +614,39 @@ window.WIKI_CONTENT = {
       "review_note": "",
       "html": "\u003ch2\u003eMasks\u003c/h2\u003e\n\u003cp\u003eIn the \u003cstrong\u003eS2 lab\u003c/strong\u003e, masks are on the \u003cstrong\u003esame shelf as the plates, in front of the −20 °C freezers\u003c/strong\u003e.\u003c/p\u003e\n\u003ch2\u003eLab coats for S2 work\u003c/h2\u003e\n\u003cp\u003eS2 lab coats are \u003cstrong\u003enext to the hood\u003c/strong\u003e. They are \u003cstrong\u003esingle-use disposable coats\u003c/strong\u003e.\u003c/p\u003e",
       "bodyText": "Masks In the S2 lab , masks are on the same shelf as the plates, in front of the −20 °C freezers . Lab coats for S2 work S2 lab coats are next to the hood . They are single-use disposable coats ."
+    },
+    {
+      "id": "k562-cas13-spinfection",
+      "title": "K562 Cas13 spinfection protocol",
+      "category": "cell-culture",
+      "summary": "K562 lentiviral spinfection, puromycin selection, and the NT and MALAT1 gRNA test groups.",
+      "keywords": [
+        "K562",
+        "Cas13",
+        "spinfection",
+        "spinoculation",
+        "lentivirus",
+        "lenti",
+        "transduction",
+        "infection",
+        "NT",
+        "non-targeting",
+        "MALAT1",
+        "gRNA",
+        "polybrene",
+        "puromycin",
+        "selection",
+        "viral titer",
+        "titre"
+      ],
+      "status": "reference",
+      "maintainer": "Carlos",
+      "version": "",
+      "reviewed": "",
+      "source": "Protocol supplied by Carlos, 26 October 2026; grammar and formatting edited without changing the specified conditions",
+      "review_note": "",
+      "html": "\u003ch2\u003eSpinfection and selection\u003c/h2\u003e\n\u003col\u003e\u003cli\u003eCount the K562 cells and prepare \u003cstrong\u003e100,000 cells in 500 µL of medium per tube\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eAdd the appropriate volume of lentivirus to each tube: \u003cstrong\u003e0.5, 1, 2, 5, 10, or 20 µL\u003c/strong\u003e, using a separate tube for each condition. Add \u003cstrong\u003epolybrene to a final concentration of 8 µg/mL\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eCentrifuge all tubes at \u003cstrong\u003e500 × g for 1 hour at room temperature\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eResuspend the cell pellet \u003cstrong\u003ein the same medium. Do not remove or replace the medium\u003c/strong\u003e.\u003c/li\u003e\u003cli\u003eTransfer each suspension to a separate well of a \u003cstrong\u003e6-well plate\u003c/strong\u003e and add \u003cstrong\u003e1.5 mL of medium\u003c/strong\u003e to each well.\u003c/li\u003e\u003cli\u003eAllow the cells to recover for \u003cstrong\u003e48 hours after transduction\u003c/strong\u003e, then begin selection with \u003cstrong\u003epuromycin at a final concentration of 2 µg/mL\u003c/strong\u003e to select cells expressing the vector&#x27;s puromycin-resistance marker.\u003c/li\u003e\u003cli\u003eCheck cell survival \u003cstrong\u003e4, 7, and 10 days after adding puromycin\u003c/strong\u003e.\u003c/li\u003e\u003c/ol\u003e\n\u003ch2\u003eTest experiment groups\u003c/h2\u003e\n\u003cp\u003eEach lentiviral volume below is a separate condition.\u003c/p\u003e\n\u003cdiv class=\"table-wrap\" role=\"region\" aria-label=\"Scrollable data table\" tabindex=\"0\"\u003e\u003ctable\u003e\u003cthead\u003e\u003ctr\u003e\u003cth scope=\"col\"\u003eGroup\u003c/th\u003e\u003cth scope=\"col\"\u003eLentiviral volumes per condition\u003c/th\u003e\u003cth scope=\"col\"\u003ePuromycin selection\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd\u003eNT (non-targeting) gRNA\u003c/td\u003e\u003ctd\u003e0.5, 1, 2, 5, 10, and 20 µL\u003c/td\u003e\u003ctd\u003e2 µg/mL, starting 48 hours after transduction\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eMALAT1 gRNA — standard titer\u003c/td\u003e\u003ctd\u003e0.5, 1, 2, 5, 10, and 20 µL\u003c/td\u003e\u003ctd\u003e2 µg/mL, starting 48 hours after transduction\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eMALAT1 gRNA — high titer\u003c/td\u003e\u003ctd\u003e0.5, 1, 2, 5, 10, and 20 µL\u003c/td\u003e\u003ctd\u003e2 µg/mL, starting 48 hours after transduction\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eUntreated controls — 2 wells\u003c/td\u003e\u003ctd\u003eNo virus\u003c/td\u003e\u003ctd\u003eNo antibiotic\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd\u003eSelection controls — 2 wells\u003c/td\u003e\u003ctd\u003eNo virus\u003c/td\u003e\u003ctd\u003eWith puromycin\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/div\u003e",
+      "bodyText": "Spinfection and selection Count the K562 cells and prepare 100,000 cells in 500 µL of medium per tube . Add the appropriate volume of lentivirus to each tube: 0.5, 1, 2, 5, 10, or 20 µL , using a separate tube for each condition. Add polybrene to a final concentration of 8 µg/mL . Centrifuge all tubes at 500 × g for 1 hour at room temperature . Resuspend the cell pellet in the same medium. Do not remove or replace the medium . Transfer each suspension to a separate well of a 6-well plate and add 1.5 mL of medium to each well. Allow the cells to recover for 48 hours after transduction , then begin selection with puromycin at a final concentration of 2 µg/mL to select cells expressing the vector's puromycin-resistance marker. Check cell survival 4, 7, and 10 days after adding puromycin . Test experiment groups Each lentiviral volume below is a separate condition. Group Lentiviral volumes per condition Puromycin selection NT (non-targeting) gRNA 0.5, 1, 2, 5, 10, and 20 µL 2 µg/mL, starting 48 hours after transduction MALAT1 gRNA — standard titer 0.5, 1, 2, 5, 10, and 20 µL 2 µg/mL, starting 48 hours after transduction MALAT1 gRNA — high titer 0.5, 1, 2, 5, 10, and 20 µL 2 µg/mL, starting 48 hours after transduction Untreated controls — 2 wells No virus No antibiotic Selection controls — 2 wells No virus With puromycin"
     }
   ],
   "locations": [
